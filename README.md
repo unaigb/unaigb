@@ -1,7 +1,7 @@
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unaigb/unaigb/main/assets/banner-dark.svg">
-    <img alt="Unai García. Software, sistemas y videojuegos desde Salamanca." src="https://raw.githubusercontent.com/unaigb/unaigb/main/assets/banner-light.svg" width="100%">
+    <img alt="Unai García. Software, sistemas y videojuegos." src="https://raw.githubusercontent.com/unaigb/unaigb/main/assets/banner-light.svg" width="100%">
   </picture>
 </p>
 
