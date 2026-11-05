@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t d">
+  <title id="t">Unai Garc&#237;a</title>
+  <desc id="d">Software, sistemas y videojuegos desde Salamanca</desc>
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI Variable Display","Segoe UI",Inter,Roboto,"Helvetica Neue",Arial,sans-serif}
+    .kick{font-size:15px;font-weight:600;letter-spacing:2.4px;fill:#707070}
+    .name{font-size:108px;font-weight:700;letter-spacing:-3.5px;fill:#1d1d1f}
+    .sub{font-size:27px;font-weight:400;letter-spacing:-.2px;fill:#707070}
+    .ic{fill:none;stroke:#1d1d1f;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+    .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+    .d1{animation-delay:.05s}.d2{animation-delay:.18s}.d3{animation-delay:.32s}.d4{animation-delay:.5s}
+    @keyframes rise{from{opacity:0;transform:translateY(12px)}}
+    .hl{animation:hop 9s cubic-bezier(.65,0,.35,1) infinite}
+    @keyframes hop{0%,22%{transform:translateY(0)}25%,47%{transform:translateY(52px)}50%,72%{transform:translateY(104px)}75%,97%{transform:translateY(156px)}100%{transform:translateY(0)}}
+    @media (prefers-reduced-motion:reduce){.rise,.hl{animation:none}}
+  </style>
+  <rect width="1200" height="360" rx="28" fill="#f5f5f7"/>
+  <g class="f">
+    <text class="kick rise d1" x="72" y="120">INGENIER&#205;A INFORM&#193;TICA &#183; VIDEOJUEGOS</text>
+    <text class="name rise d2" x="68" y="222">Unai Garc&#237;a</text>
+    <text class="sub rise d3" x="72" y="272">Software, sistemas y videojuegos desde Salamanca.</text>
+  </g>
+  <g class="rise d4">
+    <rect x="1060" y="68" width="68" height="224" rx="34" fill="#ffffff" fill-opacity=".72" stroke="#1d1d1f" stroke-opacity=".08"/>
+    <circle class="hl" cx="1094" cy="102" r="22" fill="#0071e3" fill-opacity=".14" stroke="#0071e3" stroke-opacity=".55"/>
+    <path class="ic" transform="translate(1094 102)" d="M-9 1.5L0-7l9 8.5M-6-1V8h12V-1"/>
+    <g class="ic" transform="translate(1094 154)"><rect x="-8" y="-8" width="6.5" height="6.5" rx="1.6"/><rect x="1.5" y="-8" width="6.5" height="6.5" rx="1.6"/><rect x="-8" y="1.5" width="6.5" height="6.5" rx="1.6"/><rect x="1.5" y="1.5" width="6.5" height="6.5" rx="1.6"/></g>
+    <g class="ic" transform="translate(1094 206)"><circle cy="-3.5" r="4.2"/><path d="M-8 9c0-5 4-7.5 8-7.5s8 2.5 8 7.5"/></g>
+    <g class="ic" transform="translate(1094 258)"><rect x="-9.5" y="-6.5" width="19" height="13" rx="2.8"/><path d="M-8.5-4.5L0 2l8.5-6.5"/></g>
+  </g>
+</svg>
