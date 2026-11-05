@@ -1,67 +1,64 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unaigb/unaigb/main/assets/banner-dark.svg">
-  <img alt="Unai García. Software, sistemas y videojuegos desde Salamanca." src="https://raw.githubusercontent.com/unaigb/unaigb/main/assets/banner-light.svg" width="100%">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unaigb/unaigb/main/assets/banner-dark.svg">
+    <img alt="Unai García. Software, sistemas y videojuegos desde Salamanca." src="https://raw.githubusercontent.com/unaigb/unaigb/main/assets/banner-light.svg" width="100%">
+  </picture>
+</p>
 
-<!-- TODO: enlazar aquí el portfolio cuando esté desplegado -->
+<p align="center">
+  <a href="https://github.com/unaigb?tab=repositories"><img height="30" src="https://img.shields.io/badge/Repositorios-0071E3?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/></a>
+</p>
 
-<details open>
-<summary><h2>👋 Sobre mí</h2></summary>
+<!-- TODO: añadir aquí el resto de contactos (correo, LinkedIn...) y el portfolio cuando esté desplegado -->
 
-Hola, soy **Unai**. Me muevo entre el **software y los sistemas** (redes, seguridad, inteligencia artificial, robótica) y el **desarrollo de videojuegos** con Unity y Unreal Engine.
+---
+
+### 👋 Sobre mí
+
+Hola, soy **Unai**. Apasionado por los videojuegos y la tecnología, disfrutando de la informática.
 
 - 📍 Salamanca, España
-- 🎓 Grado en Ingeniería Informática · Universidad de Salamanca
-- 🎮 Videojuegos con Unity y Unreal Engine · máster (UNIR)
-- 🔭 Ahora: construyendo mi propio portfolio web, a medida y con animaciones
+- 🎓 Graduado en **Ingeniería Informática** · Universidad de Salamanca
+- 🎮 **Máster en Diseño y Desarrollo de Videojuegos** · UNIR
+- 🔭 Ahora: en busca de nuevos proyectos
 
-</details>
+---
 
-<details open>
-<summary><h2>🧭 Proyectos</h2></summary>
+### 🛠️ Tecnologías y herramientas
 
-Trabajos de la carrera. Cada uno tiene su README con capturas y cómo ejecutarlo.
+<h4 align="center">📝 Lenguajes de programación</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Ada-02F88C?style=for-the-badge&logo=ada&logoColor=black" alt="Ada"/>
+  <img src="https://img.shields.io/badge/Prolog-B3262E?style=for-the-badge" alt="Prolog"/>
+  <img src="https://img.shields.io/badge/Lisp-3FB68B?style=for-the-badge&logo=commonlisp&logoColor=white" alt="Lisp"/>
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+</p>
 
-| Proyecto | Qué es | Tecnologías |
-| :--- | :--- | :--- |
-| [**❤️ MyVitality**](https://github.com/unaigb/MyVitality-IPO) | Diseño centrado en el usuario de una app de salud, del estudio de usuarios a un prototipo navegable. [Ver demo](https://unaigb.github.io/MyVitality-IPO/prototype/) | HTML · CSS · Figma |
-| [**🗳️ Pactómetro**](https://github.com/unaigb/Pactometro-WPF) | Aplicación de escritorio para visualizar resultados electorales y simular pactos de gobierno. | C# · WPF |
-| [**🧠 Sistemas Inteligentes**](https://github.com/unaigb/Intelligent-Systems) | Búsqueda A\* sobre un mapa, programación lógica y unificación de expresiones. | Python · Prolog · Lisp |
-| [**🕵️ Akinator con agentes**](https://github.com/unaigb/Akinator-JADE) | Sistema multiagente que juega a «¿Quién es quién?» con un árbol de decisión J48. | Java · JADE · Weka |
-| [**🤖 Robótica**](https://github.com/unaigb/Robotics-Practices) | Odometría con un Roomba, brazo de 6 grados de libertad y visión artificial. | Python · OpenCV · MATLAB |
-| [**🔐 Seguridad**](https://github.com/unaigb/Security-Practices) | Ocho prácticas: criptografía, certificados, HTTPS, firma electrónica y tráfico TLS. | OpenSSL · GnuPG · Wireshark |
-| [**🌐 Sistemas distribuidos**](https://github.com/unaigb/Distributed-Systems-REST) | Un chat y una multidifusión con ordenación total sobre servicios REST. | Java · Jersey · Tomcat |
-| [**🔥 Patata caliente**](https://github.com/unaigb/Sockets-Hot-Potato) | Servidor y cliente por TCP y UDP con un protocolo de texto propio. | C · sockets |
-| [**☢️ Central nuclear**](https://github.com/unaigb/Nuclear-Plant-Ada) | Simulación concurrente de tres reactores con tareas y objetos protegidos. | Ada |
-| [**🎬 Filmoteca**](https://github.com/unaigb/IMDB-Filmoteca) | Gestor de películas, directores y actores con arquitectura MVC y persistencia binaria. | Java |
-| [**🧱 Estructuras de datos**](https://github.com/unaigb/Data-Structures-C) | Tipos abstractos de datos, ordenación y ficheros con hashing e índices. | C |
+<h4 align="center">🎮 Motores de videojuegos</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+</p>
 
-</details>
+<h4 align="center">🧰 Herramientas y entornos</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
-<details open>
-<summary><h2>🎮 Videojuegos</h2></summary>
+---
 
-Proyectos del máster, hechos con Unity 6 y Unreal Engine 5.5.
+### 🧭 Proyectos
 
-| Proyecto | Motor |
-| :--- | :--- |
-| [**ECHOES**](https://github.com/unaigb/ECHOES_TFE_UnaiGB_UNIR) · trabajo de fin de estudios | Unity 6 · C# |
-| [**Space Shooter**](https://github.com/unaigb/2025_SpaceShooter_UnaiGB) | Unity 6 · C# |
-| [**Space Shooter**](https://github.com/unaigb/UnaiGB_SpaceShooter) | Unreal Engine 5.5 |
-| [**Plataformas 2D**](https://github.com/unaigb/UNIR_Plataformas2D) | Unity 6 · C# |
-| [**Plataformas 2D**](https://github.com/unaigb/UnaiGB_UNIR_Plataformas2D) | Unreal Engine 5.5 |
-| [**Tercera persona**](https://github.com/unaigb/UnaiGB_UNIR_ThirdPersonUnreal) | Unreal Engine 5.5 |
-| [**AnStupidGame**](https://github.com/unaigb/AnStupidGame) | Unity 6 · C# |
-
-</details>
-
-<details>
-<summary><h2>🛠️ Con qué trabajo</h2></summary>
-
-**Lenguajes** &nbsp;·&nbsp; Java · C · C# · Python · Ada · Prolog · Lisp · MATLAB · HTML y CSS
-
-**Motores y entornos** &nbsp;·&nbsp; Unity · Unreal Engine · Visual Studio · Eclipse · NetBeans · Linux
-
-**Áreas** &nbsp;·&nbsp; Sistemas distribuidos · Redes · Seguridad · Inteligencia artificial · Robótica · Diseño de interfaces
-
-</details>
+Los que más me representan están fijados justo debajo de esta presentación. El resto, trabajos de la carrera y juegos del máster, está en [mis repositorios](https://github.com/unaigb?tab=repositories).
