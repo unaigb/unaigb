@@ -5,13 +5,12 @@
   </picture>
 </p>
 
-<!-- TODO: cuando el portfolio esté desplegado, añadir su insignia a la sección de contacto -->
-
 ---
 
 ### 📬 Contacto
 
 <p align="center">
+  <a href="https://unaigb.dev"><img height="30" src="https://img.shields.io/badge/Portfolio-%230071E3.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPGcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJz48Y2lyY2xlIGN4PScxMicgY3k9JzEyJyByPSc5Jy8%2BPHBhdGggZD0nTTMgMTJoMThNMTIgM2MzIDMgMyAxNSAwIDE4TTEyIDNjLTMgMy0zIDE1IDAgMTgnLz48L2c%2BPC9zdmc%2B" alt="Portfolio"/></a>
   <a href="https://www.instagram.com/unai_gb7/"><img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/unai_gb7"><img height="30" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:unaigarciablanco@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
